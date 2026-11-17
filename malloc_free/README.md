@@ -8,3 +8,4 @@ This project covers dynamic memory allocation in C.
 - 1-strdup.c: Duplicates a string by allocating new memory and copying its contents.
 - 2-str_concat.c: Concatenates two strings into a newly allocated memory space.
 - 3-alloc_grid.c: Allocates and initializes a two-dimensional array of integers.
+- 4-free_grid.c: Frees a two-dimensional grid and its allocated memory.
