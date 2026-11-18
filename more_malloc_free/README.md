@@ -1,1 +1,2 @@
 - 0-malloc_checked.c: Allocates memory using malloc and exits with status 98 if allocation fails.
+- 1-string_nconcat.c: Concatenates two strings using the first n bytes of the second string.
