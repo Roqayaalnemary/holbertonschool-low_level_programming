@@ -8,3 +8,4 @@
 - 3-dog_t.c: Defines dog_t as an alias for struct dog using typedef.
 - 4-new_dog.c: Creates a new dog and stores copies of its name and owner.
 - 4-new_dog.c: Creates a new dog and stores copies of its name and owner.
+- 5-free_dog.c: Frees the memory allocated for a dog structure.
