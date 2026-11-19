@@ -6,3 +6,5 @@
 - 1-init_dog.c: Initializes a dog structure with its name, age, and owner.
 - 2-print_dog.c: Prints the name, age, and owner of a dog.
 - 3-dog_t.c: Defines dog_t as an alias for struct dog using typedef.
+- 4-new_dog.c: Creates a new dog and stores copies of its name and owner.
+- 4-new_dog.c: Creates a new dog and stores copies of its name and owner.
