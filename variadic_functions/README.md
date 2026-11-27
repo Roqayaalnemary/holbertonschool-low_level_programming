@@ -4,3 +4,4 @@
 
 - 0-sum_them_all.c: Returns the sum of all its parameters.
 - variadic_functions.h: Contains the function prototype.
+- 1-print_numbers.c: Prints a list of integers separated by a given string.
