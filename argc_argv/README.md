@@ -17,3 +17,6 @@
 
 - `3-mul.c`: Multiplies two numbers passed as command-line arguments.
 
+## 4. To infinity and beyond
+
+- `4-add.c`: Adds positive numbers passed as command-line arguments.
