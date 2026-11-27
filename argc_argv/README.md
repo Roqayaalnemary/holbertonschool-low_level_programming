@@ -4,3 +4,4 @@
 
 - 0-whatsmyname.c: Prints the program name using argv[0].
 - 1-args.c: Prints the number of command-line arguments, excluding the program name.
+- 2-args.c: Prints all command-line arguments, one per line.
